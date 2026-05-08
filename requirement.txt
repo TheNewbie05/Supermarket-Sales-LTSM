@@ -1,0 +1,9 @@
+fastapi==0.115.*
+uvicorn[standard]
+tensorflow==2.17.*
+pandas
+numpy
+scikit-learn
+joblib
+loguru
+prometheus-client

@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Project Specific
+logs/*.log
+data/supermarket_sales.csv
+models/*.h5
+models/*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
