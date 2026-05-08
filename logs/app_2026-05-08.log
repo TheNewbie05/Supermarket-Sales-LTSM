@@ -1,0 +1,3 @@
+2026-05-08 22:46:39.745 | INFO     | app.main:<module>:31 - ✅ Model loaded successfully
+2026-05-08 17:51:17.431 | INFO     | app.main:<module>:31 - ✅ Model loaded successfully
+2026-05-08 17:55:13.658 | INFO     | app.main:predict_sales:73 - Forecast generated for 30 days | Latency: 4.164s
